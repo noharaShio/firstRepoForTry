@@ -64,6 +64,5 @@ int main(int argc, char* argv[]) {
 	output<< dotSet.size();
 	input.close();
 	output.close();
-	system("pause");
 	return 0;
 }
